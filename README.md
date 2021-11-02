@@ -2,6 +2,7 @@
 ## *An app from the generation, an app for the nation*
 ***By BYTEME***
 #### MANASTHAIRYA, a Sanskrit word for ‘Strength of Mind’, is a mental health monitor for students.
+[Youtube link:](https://youtu.be/QfrpH78Yc30)
 #### FLOW OF PROJECT
 >Our idea of having a GUI interface is given in the diagram below:
 
@@ -31,5 +32,3 @@ a resource by HackMakers. As a result, the training accuracy is 87% and testing
 accuracy is 82%
 
 ![](https://github.com/1234-ritu/Byte-me/blob/main/images/Score%20checker.jpeg)
-
-
