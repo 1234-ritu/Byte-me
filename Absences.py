@@ -57,7 +57,7 @@ class Quiz:
         font=( 'ariel' ,16, 'bold' ), anchor= 'w' )
         q_no.place(x=70, y=100)
     def display_title(self):
-        title = Label(gui, text="Analyse Absences",
+        title = Label(gui, text="Questionnaire",
         width=50, bg="green",fg="white", font=("ariel", 20, "bold"))
         title.place(x=0, y=2)
     def radio_buttons(self):
